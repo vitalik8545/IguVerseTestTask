@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "IguVerseTestTask",
+    "slug": "IguVerseTestTask",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "scheme": "com.demo.IguVerseTestTask",
+    "facebookScheme": "fb944115229924692",
+    "facebookAppId": "944115229924692",
+    "facebookDisplayName": "Customer",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.demo.IguVerseTestTask"
+    },
+    "android": {
+      "package": "com.demo.IguVerseTestTask",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f588eebd-5b8f-41df-a7b3-c2df8bf69da4"
+      }
+    }
+  }
+}
