@@ -1,4 +1,4 @@
-First of all start command: yarn
+First of all: yarn
 
 Start web: yarn web<br>
 Start ios: yarn ios<br>
